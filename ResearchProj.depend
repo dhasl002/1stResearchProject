@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1467828675 source:c:\users\dhaslam\desktop\researchproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+
+1470406023 source:z:\researchproj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+
